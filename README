@@ -1,0 +1,2 @@
+I had trouble building Stratis wallet from source on my old generation 1 Raspberry Pi. The Gen 1 Pi only has 256MB of memory, which leads to out-of-memory errors early in the compilation process. This situation left me with three options: create a swap file (which can potentially nuke your SD card), buy a new Pi (but why do that when I already have a perfectly good one?), or cross-compile on my primary computer. I chose the last option of the three; the files in this repository are the result. I hope somebody else finds them useful.
+
